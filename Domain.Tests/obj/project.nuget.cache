@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FMTN/vv7ugxVduyNY9W4kdX26yksB4CC3du7S85oe8DOh344N1ouPNA/M/4U2CFgRdc3XnjmDQZWESBZ/AIZRA==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio_Test\\Flight\\Domain.Tests\\Domain.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
